@@ -11,4 +11,8 @@
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
 
 ## 📫 How to Reach Me
-[![Linkedin Badge](https://img.shields.io/badge/nurcanozkan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nurcanozkan/)
+<p align="left">
+<a href="https://twitter.com/nurcnozknn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nurcnozknn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nurcanozkan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nurcanozkan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nurcanozknn/?hl=tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nurcanozknn" height="30" width="40" /></a>
+</p>
