@@ -17,5 +17,10 @@
 <a href="https://www.instagram.com/nurcanozknn/?hl=tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nurcanozknn" height="30" width="40" /></a>
 </p>
 
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurcanozkann&layout=compact&hide=html&theme=dark" alt="nurcanozkann" />
+<div/>
+<br />
+
 ##
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nurcanozkann)
