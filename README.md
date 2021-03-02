@@ -13,7 +13,7 @@
 <br />
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurcnozknn&show_icons=true&theme=dark" alt="nurcnozknn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurcanozkann&show_icons=true&theme=dark" alt="nurcanozkann" />
 <div/>
 <br />
 
