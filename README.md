@@ -10,6 +10,13 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
 
+<br />
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurcnozknn&show_icons=true&theme=dark" alt="nurcnozknn" />
+<div/>
+<br />
+
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurcanozkann&layout=compact&hide=html&theme=dark" alt="nurcanozkann" />
 <div/>
