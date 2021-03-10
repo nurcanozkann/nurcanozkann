@@ -11,8 +11,6 @@
 
 <br />
 
-<table border="1" cellpadding="4" cellspacing="0">
-<thead>
  <tr>
   <th align="left">
    <div>
@@ -25,8 +23,6 @@
 <div/>
   </th>
  </tr>
- </thead>
-</table>
 
 
 ## 📫 How to Reach Me
