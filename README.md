@@ -18,7 +18,7 @@
 
 
 ## 📫 How to Reach Me
-<p align="left">
+<p style="text-align: center;" align="left">
 <a href="https://twitter.com/nurcnozknn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nurcnozknn" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nurcanozkan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nurcanozkan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nurcanozknn/?hl=tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nurcanozknn" height="30" width="40" /></a>
