@@ -2,7 +2,7 @@
 
  ##### 🔭 I’m currently working at @obilet.com
  ##### 🌱 I'm Software Developer
-<code><img height="50" src="https://octodex.github.com/images/yaktocat.png"></code>
+<code><img height="150" width:"200" src="https://octodex.github.com/images/yaktocat.png"></code>
 
 ## 📚 Learning & Interested
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"></code>
