@@ -12,7 +12,7 @@
 <hr />
 
 <p align="left">
-   <img align="center" height="180" width="350" src="https://github-readme-stats.vercel.app/api?username=nurcanozkann&show_icons=true&theme=dark" alt="nurcanozkann" />
+   <img align="center" height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=nurcanozkann&show_icons=true&theme=dark" alt="nurcanozkann" />
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurcanozkann&layout=compact&hide=html&theme=dark" alt="nurcanozkann" />
 </p>
 
