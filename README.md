@@ -9,7 +9,7 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
 
-<br />
+<hr />
 
 <p align="left">
    <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=nurcanozkann&show_icons=true&theme=dark" alt="nurcanozkann" />
