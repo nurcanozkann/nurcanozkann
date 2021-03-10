@@ -2,7 +2,6 @@
 
  ##### 🔭 I’m currently working at @obilet.com
  ##### 🌱 I'm Software Developer
-<code><img height="150" width:"200" src="https://octodex.github.com/images/yaktocat.png"></code>
 
 ## 📚 Learning & Interested
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"></code>
@@ -12,17 +11,22 @@
 
 <br />
 
-<div>
+<table border="1" cellpadding="4" cellspacing="0">
+<thead>
+ <tr>
+  <th align="left">
+   <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurcanozkann&layout=compact&hide=html&theme=dark" alt="nurcanozkann" />
-<div/>
-<br />
-
-<div>
+  <div/>
+  </th>
+  <th align="right">
+  <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurcanozkann&show_icons=true&theme=dark" alt="nurcanozkann" />
 <div/>
-<br />
-
-
+  </th>
+ </tr>
+ </thead>
+</table>
 
 
 ## 📫 How to Reach Me
