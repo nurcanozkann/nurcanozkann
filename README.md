@@ -11,18 +11,14 @@
 
 <br />
 
- <tr>
-  <th align="left">
+<p>
    <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurcanozkann&layout=compact&hide=html&theme=dark" alt="nurcanozkann" />
   <div/>
-  </th>
-  <th align="right">
   <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurcanozkann&show_icons=true&theme=dark" alt="nurcanozkann" />
 <div/>
-  </th>
- </tr>
+   </p>
 
 
 ## 📫 How to Reach Me
