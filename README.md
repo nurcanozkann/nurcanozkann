@@ -3,11 +3,12 @@
  ##### 🔭 I’m currently working at @obilet.com
  ##### 🌱 I'm Software Developer
 
-## 📚 Learning & Interested
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
+## 📚 Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <hr />
 
